@@ -1,3 +1,4 @@
+//Учіть функції=)))
 #include <iostream>
 #include <vector>
 #include <cassert>
